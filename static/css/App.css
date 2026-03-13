@@ -1,0 +1,170 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+
+@font-face {
+  font-family: Yokelvision;
+  src: url("../public/font/Yokelvision.otf");
+}
+
+.font_2 {
+  font-family: Yokelvision;
+  letter-spacing: 2px;
+}
+
+h1,
+h2 {
+  font-family: Yokelvision;
+}
+
+body {
+  font-size: 16px;
+  font-family: "Urbanist", sans-serif;
+  font-weight: 400;
+  background-color: #000000;
+  color: #fff;
+}
+
+.animation {
+  transition: all 1s ease-in-out;
+}
+
+.header {
+  background-image: url("../public/images/header.png");
+  background-position: top center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+}
+
+.slide {
+  background-image: linear-gradient(
+    to right,
+    #f53bff,
+    #ff00a9,
+    #ff00aad5,
+    #ade348,
+    #00f9b9,
+    #00f9b9,
+    #00f0e0,
+    #00e3fb,
+    #00d4ff,
+    #6ac3ff
+  );
+}
+
+@keyframes rotateLeftRight {
+  0% {
+    transform: rotate(0deg);
+  }
+  25% {
+    transform: rotate(-15deg);
+  }
+  50% {
+    transform: rotate(0deg);
+  }
+  75% {
+    transform: rotate(15deg);
+  }
+  100% {
+    transform: rotate(0deg);
+  }
+}
+
+.rotate-wiggle {
+  animation: rotateLeftRight 2s infinite ease-in-out;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.join {
+  background-image: linear-gradient(to bottom, #000, #712199);
+}
+
+.rotate {
+  animation: spin 2s linear infinite;
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.token {
+  box-shadow: #ce48ffc0 0px 30px 60px -12px inset,
+    #ce48ff83 0px 18px 36px -18px inset;
+  position: relative;
+  z-index: 99;
+}
+
+.token::before {
+  content: "";
+  background: #712199;
+  border-radius: 50%;
+  height: 10vw;
+  position: absolute;
+  width: 90%;
+  top: 20%;
+  left: 10%;
+  z-index: -1;
+  filter: blur(100px);
+}
+
+.about {
+  position: relative;
+}
+
+.about::before {
+  content: "";
+  background: #712199;
+  border-radius: 50%;
+  height: 10vw;
+  position: absolute;
+  width: 90%;
+  top: 10%;
+  left: 10%;
+  z-index: -1;
+  filter: blur(100px);
+}
+
+@media only screen and (max-width: 600px) {
+  body,
+  html {
+    overflow-x: hidden;
+  }
+
+  .token::before {
+    content: "";
+    background: #712199;
+    border-radius: 50%;
+    height: 100%;
+    position: absolute;
+    width: 40%;
+    top: 20%;
+    left: 30%;
+    z-index: -1;
+    filter: blur(100px);
+  }
+
+  .header {
+    background-image: url("../public/images/mobile-header.png");
+  }
+}
