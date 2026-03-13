@@ -17185,16 +17185,7 @@
                                   "md:w-[16vw] w-[140vw] transition-all ease-in-out",
                               }),
                             }),
-                            (0, Bs.jsx)("a", {
-                              href: "https://t.me/ethdreamgirl",
-                              children: (0, Bs.jsx)(Vs.img, {
-                                whileHover: { scale: 1.1 },
-                                src: "/images/telegram.png",
-                                alt: "",
-                                className:
-                                  "md:w-[18vw] w-[150vw] transition-all ease-in-out",
-                              }),
-                            }),
+                            
                           ],
                         }),
                         (0, Bs.jsx)(Vs.img, {
@@ -30333,11 +30324,11 @@
             //     ),
             //   ),
             // }),
-            (0, Bs.jsx)("img", {
-              src: "/images/slider-bg.png",
-              alt: "",
-              className: "md:mt-[-7vw] mt-[-20vw]",
-            }),
+            // (0, Bs.jsx)("img", {
+            //   src: "/images/slider-bg.png",
+            //   alt: "",
+            //   className: "md:mt-[-7vw] mt-[-20vw]",
+            // }),
           ],
         });
       }
@@ -30348,12 +30339,6 @@
             (0, Bs.jsxs)("div", {
               className:
                 "grid md:grid-cols-4 grid-cols-2 justify-center relative z-50",
-            }),
-            (0, Bs.jsx)("img", {
-              src: "/images/pink-elips.png",
-              alt: "",
-              className:
-                "md:mt-[-40vw] mt-[-60vw] md:scale-100 scale-150 opacity-80",
             }),
             (0, Bs.jsxs)("div", {
               className: "join rounded-b-3xl md:px-10 px-8 md:mt-[-5vw] mt-10",
@@ -30455,7 +30440,7 @@
           children: [
             (0, Bs.jsx)("p", {
               className: "md:text-start text-center md:text-base text-xs",
-              children: "Copyright \xa9 2025 SHISHI. All Rights Reserved",
+              children: "Copyright \xa9 2026 SHISHI. All Rights Reserved",
             }),
             (0, Bs.jsx)("p", {
               className: "md:text-start text-center md:text-base text-xs",
