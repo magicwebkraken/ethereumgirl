@@ -30277,60 +30277,60 @@
               (null === (i = a[o + 3]) || void 0 === i ? void 0 : i.style) &&
                 (a[o + 3].style.transform = "scale(0.7)"));
           };
-        return (0, Bs.jsxs)("div", {
-          className: "mt-[5vw]",
-          children: [
-            // (0, Bs.jsx)(Ks, {
-            //   text: "SHISHI Hall of Fame\ud83c\udf38",
-            //   delay: 150,
-            //   animateBy: "words",
-            //   direction: "top",
-            //   className:
-            //     "md:text-8xl text-6xl md:w-[40%] w-[90%] mx-auto justify-center text-center",
-            // }),
-            (0, Bs.jsx)("img", {
-              src: "/images/Ellipse.png",
-              alt: "",
-              className: "md:mt-[-25vw] mt-[-35vw]",
-            }),
-            // (0, Bs.jsx)(Nv, {
-            //   modules: [Dv],
-            //   autoplay: { delay: 2500, disableOnInteraction: !1 },
-            //   pagination: { clickable: !0 },
-            //   slidesPerView: 1,
-            //   spaceBetween: 40,
-            //   breakpoints: {
-            //     640: { slidesPerView: 2 },
-            //     768: { slidesPerView: 3 },
-            //     1024: { slidesPerView: 4 },
-            //   },
-            //   onInit: (t) => {
-            //     ((e.current = t), n(t));
-            //   },
-            //   onSlideChange: (e) => n(e),
-            //   className: "mySwiper !pt-[5vw] !mt-[-24vw]",
-            //   children: jv.map((e, t) =>
-            //     (0, Bs.jsx)(
-            //       Rv,
-            //       {
-            //         children: (0, Bs.jsx)("img", {
-            //           src: e,
-            //           alt: "slide-".concat(t),
-            //           className:
-            //             "w-full h-full transition-transform duration-300 ease-in-out md:scale-100 scale-125",
-            //         }),
-            //       },
-            //       t,
-            //     ),
-            //   ),
-            // }),
-            // (0, Bs.jsx)("img", {
-            //   src: "/images/slider-bg.png",
-            //   alt: "",
-            //   className: "md:mt-[-7vw] mt-[-20vw]",
-            // }),
-          ],
-        });
+        // return (0, Bs.jsxs)("div", {
+        //   className: "mt-[5vw]",
+        //   children: [
+        //     // (0, Bs.jsx)(Ks, {
+        //     //   text: "SHISHI Hall of Fame\ud83c\udf38",
+        //     //   delay: 150,
+        //     //   animateBy: "words",
+        //     //   direction: "top",
+        //     //   className:
+        //     //     "md:text-8xl text-6xl md:w-[40%] w-[90%] mx-auto justify-center text-center",
+        //     // }),
+        //     (0, Bs.jsx)("img", {
+        //       src: "/images/Ellipse.png",
+        //       alt: "",
+        //       className: "md:mt-[-25vw] mt-[-35vw]",
+        //     }),
+        //     // (0, Bs.jsx)(Nv, {
+        //     //   modules: [Dv],
+        //     //   autoplay: { delay: 2500, disableOnInteraction: !1 },
+        //     //   pagination: { clickable: !0 },
+        //     //   slidesPerView: 1,
+        //     //   spaceBetween: 40,
+        //     //   breakpoints: {
+        //     //     640: { slidesPerView: 2 },
+        //     //     768: { slidesPerView: 3 },
+        //     //     1024: { slidesPerView: 4 },
+        //     //   },
+        //     //   onInit: (t) => {
+        //     //     ((e.current = t), n(t));
+        //     //   },
+        //     //   onSlideChange: (e) => n(e),
+        //     //   className: "mySwiper !pt-[5vw] !mt-[-24vw]",
+        //     //   children: jv.map((e, t) =>
+        //     //     (0, Bs.jsx)(
+        //     //       Rv,
+        //     //       {
+        //     //         children: (0, Bs.jsx)("img", {
+        //     //           src: e,
+        //     //           alt: "slide-".concat(t),
+        //     //           className:
+        //     //             "w-full h-full transition-transform duration-300 ease-in-out md:scale-100 scale-125",
+        //     //         }),
+        //     //       },
+        //     //       t,
+        //     //     ),
+        //     //   ),
+        //     // }),
+        //     // (0, Bs.jsx)("img", {
+        //     //   src: "/images/slider-bg.png",
+        //     //   alt: "",
+        //     //   className: "md:mt-[-7vw] mt-[-20vw]",
+        //     // }),
+        //   ],
+        // });
       }
       function Iv() {
         return (0, Bs.jsxs)("div", {
