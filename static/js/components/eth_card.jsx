@@ -15,13 +15,7 @@ const data = [
         direction: "horizontal",
         para: "Talented artist Shiro has committed to uploading a new ETHCHAN drawing every day until ETH hits $10’000!"
     },
-    {
-        mainimg: "/images/card-img2.png",
-        bgimg: "/images/card-bg3.png",
-        heading: "Noticed by Vitalik!🌸",
-        direction: "vartical",
-        para: "TOn day 7 of her series, Vitalik followed her X account! It took a week for him to notice ETHCHAN and Shiro’s commitment!"
-    },
+
     {
         mainimg: "/images/card-img3.png",
         bgimg: "/images/card-bg2.png",

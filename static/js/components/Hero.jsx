@@ -29,7 +29,7 @@ export default function Hero() {
               transition={ { duration: 0.8, delay: 0.4 } }
               className="md:text-8xl text-7xl"
             >
-              Meet 🌸 <br />Eth Chan -
+              Meet 🌸 <br />SHISHI -
             </motion.h2>
             <motion.p
               initial={ { opacity: 0, y: 20 } }
@@ -37,7 +37,7 @@ export default function Hero() {
               transition={ { duration: 0.7, delay: 0.6 } }
               className="text-3xl"
             >
-              Meet Eth chan - <br /> the mascot of Ethereum!
+              Meet SHISHI - <br /> The Ethereum Foundation MANDATE
             </motion.p>
             <motion.div
               initial={ { opacity: 0, scale: 0.8 } }
@@ -53,7 +53,7 @@ export default function Hero() {
                   className="md:w-[16vw] w-[140vw] transition-all ease-in-out"
                 />
               </a>
-              <a href="https://t.me/EthchanEthCoin">
+              <a href="https://t.me/ethdreamgirl">
                 <motion.img
                   whileHover={ { scale: 1.1 } }
                   src="/images/telegram.png"
@@ -99,7 +99,7 @@ export default function Hero() {
               <span className="font-semibold text-2xl">#Community</span>
               <br />
               <br />
-              Every day, the $ETHCHAN community grows stronger!
+              Every day, the $SHISHI community grows stronger!
             </p>
           </div>
           <div className="flex md:flex-col flex-row md:gap-5 justify-between items-center gap-5">

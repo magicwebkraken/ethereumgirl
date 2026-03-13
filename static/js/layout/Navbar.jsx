@@ -12,11 +12,7 @@ const NAV_LINKS = [
   {
     name: 'Tokenomics',
     linkPath: '#Tokenomics',
-  },
-  {
-    name: 'Hall of Fame',
-    linkPath: '#Hall',
-  },
+  }
 
 ]
 
@@ -53,7 +49,7 @@ export default function Navbar() {
         </div>
         <div className='md:flex items-center gap-3 hidden'>
           <h2>
-            <a href="https://t.me/EthchanEthCoin" className='text-3xl'>Telegram</a>
+            <a href="https://t.me/ethdreamgirl" className='text-3xl'>Telegram</a>
           </h2>
           <a href='' className=''>
             <img src="/images/buy-btn.png" alt="" className='w-[10vw]' />

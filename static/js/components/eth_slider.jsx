@@ -48,7 +48,7 @@ export default function App() {
     return (
         <div className='mt-[5vw]'>
             <BlurText
-                text="EthChan Hall of Fame🌸"
+                text="SHISHI Hall of Fame🌸"
                 delay={ 150 }
                 animateBy="words"
                 direction="top"

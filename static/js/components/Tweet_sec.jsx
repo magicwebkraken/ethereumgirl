@@ -43,8 +43,8 @@ export default function Tweet_sec() {
 
             <FadeContent blur={ true } duration={ 1000 } easing="ease-out" initialOpacity={ 0 }>
                 <p className='md:w-[50%] w-[88%] absolute right-5 md:bottom-[4vw] bottom-12 md:text-base text-lg'>
-                    Shiro (@shiro57102) is the artist behind $ETHCHAN, a daily art series called
-                    “Day X of drawing $ETHCHAN until $10,000 ETH.” The project has caught the Ethereum community’s
+                    Shiro (@shiro57102) is the artist behind $SHISHI, a daily art series called
+                    “Day X of drawing $SHISHI until $10,000 ETH.” The project has caught the Ethereum community’s
                     eye — even earning a follow from Vitalik himself.
                 </p>
             </FadeContent>

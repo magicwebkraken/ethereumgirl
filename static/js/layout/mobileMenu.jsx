@@ -18,7 +18,7 @@ const NAV_LINKS = [
   },
   {
     name: 'Telegram',
-    linkPath: 'https://t.me/EthchanEthCoin',
+    linkPath: 'https://t.me/ethdreamgirl',
   },
   {
     name: 'Buy Now',
