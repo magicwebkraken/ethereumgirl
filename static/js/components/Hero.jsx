@@ -53,7 +53,7 @@ export default function Hero() {
                   className="md:w-[16vw] w-[140vw] transition-all ease-in-out"
                 />
               </a>
-              <a href="https://t.me/ethdreamgirl">
+              <a href="https://t.me/ShiShionEth">
                 <motion.img
                   whileHover={ { scale: 1.1 } }
                   src="/images/telegram.png"

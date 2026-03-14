@@ -117,7 +117,7 @@ export default function About() {
 
                     <div className="absolute top-[52%] left-[2%] w-full flex items-center justify-between px-4 sm:px-6 gap-4">
                         <div className="flex items-end gap-4">
-                            <motion.a href="https://t.me/ethdreamgirl">
+                            <motion.a href="https://t.me/ShiShionEth">
                                 <motion.img
                                     src="/images/t.png"
                                     alt=""
@@ -126,7 +126,7 @@ export default function About() {
                                     transition={ { type: "spring", stiffness: 300 } }
                                 />
                             </motion.a>
-                            <motion.a href="https://x.com/EtherDreamGirl">
+                            <motion.a href="https://x.com/ShiShionEth">
                                 <motion.img
                                     src="/images/x.png"
                                     alt=""
@@ -136,7 +136,7 @@ export default function About() {
                                 />
                             </motion.a>
                         </div>
-                        <motion.a href="https://t.me/ethdreamgirl">
+                        <motion.a href="https://t.me/ShiShionEth">
                             <motion.img
                                 src="/images/join.png"
                                 alt=""

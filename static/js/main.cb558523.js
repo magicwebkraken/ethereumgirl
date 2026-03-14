@@ -16948,11 +16948,11 @@
       const Us = [
           { name: "About Us", linkPath: "#About" },
           { name: "Tokenomics", linkPath: "#Tokenomics" },
-          { name: "Telegram", linkPath: "https://t.me/ethdreamgirl" },
+          { name: "Telegram", linkPath: "https://t.me/ShiShionEth" },
           {
             name: "Buy Now",
             linkPath:
-              "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xF20568FeF53A45C07a208BbeaB9fdBaBa2d74e8C",
+              "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8CE4e0080f540944df4fcDb42D40c4E2860955Fa",
           },
         ],
         Hs = {
@@ -17081,13 +17081,13 @@
                   children: [
                     (0, Bs.jsx)("h2", {
                       children: (0, Bs.jsx)("a", {
-                        href: "https://t.me/ethdreamgirl",
+                        href: "https://t.me/ShiShionEth",
                         className: "text-3xl",
                         children: "Telegram",
                       }),
                     }),
                     (0, Bs.jsx)("a", {
-                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xF20568FeF53A45C07a208BbeaB9fdBaBa2d74e8C",
+                      href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8CE4e0080f540944df4fcDb42D40c4E2860955Fa",
                       className: "",
                       children: (0, Bs.jsx)("img", {
                         src: "/images/buy-btn.png",
@@ -17176,7 +17176,7 @@
                           className: "flex items-center",
                           children: [
                             (0, Bs.jsx)("a", {
-                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xF20568FeF53A45C07a208BbeaB9fdBaBa2d74e8C",
+                              href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8CE4e0080f540944df4fcDb42D40c4E2860955Fa",
                               children: (0, Bs.jsx)(Vs.img, {
                                 whileHover: { scale: 1.1 },
                                 src: "/images/buy-2.png",
@@ -25375,7 +25375,7 @@
                           className: "flex items-end gap-4",
                           children: [
                             (0, Bs.jsx)(Vs.a, {
-                              href: "https://t.me/ethdreamgirl",
+                              href: "https://t.me/ShiShionEth",
                               children: (0, Bs.jsx)(Vs.img, {
                                 src: "/images/t.png",
                                 alt: "",
@@ -25385,7 +25385,7 @@
                               }),
                             }),
                             (0, Bs.jsx)(Vs.a, {
-                              href: "https://x.com/EtherDreamGirl",
+                              href: "https://x.com/ShiShionEth",
                               children: (0, Bs.jsx)(Vs.img, {
                                 src: "/images/x.png",
                                 alt: "",
@@ -25397,7 +25397,7 @@
                           ],
                         }),
                         (0, Bs.jsx)(Vs.a, {
-                          href: "https://t.me/ethdreamgirl",
+                          href: "https://t.me/ShiShionEth",
                           children: (0, Bs.jsx)(Vs.img, {
                             src: "/images/join.png",
                             alt: "",
@@ -30371,7 +30371,7 @@
                         "flex items-center md:-ml-[3vw] -ml-0 col-span-full md:col-span-4 pb-8",
                       children: [
                         (0, Bs.jsx)("a", {
-                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0xF20568FeF53A45C07a208BbeaB9fdBaBa2d74e8C",
+                          href: "https://app.uniswap.org/#/swap?inputCurrency=eth&outputCurrency=0x8CE4e0080f540944df4fcDb42D40c4E2860955Fa",
                           children: (0, Bs.jsx)("img", {
                             src: "/images/buy-2.png",
                             alt: "",
@@ -30380,7 +30380,7 @@
                           }),
                         }),
                         (0, Bs.jsx)("a", {
-                          href: "https://t.me/ethdreamgirl",
+                          href: "https://t.me/ShiShionEth",
                           children: (0, Bs.jsx)("img", {
                             src: "/images/telegram.png",
                             alt: "",

@@ -32,7 +32,7 @@ export default function Join() {
                         <a href="">
                             <img src="/images/buy-2.png" alt="" className='md:w-[15vw] w-[80vw] transition-all ease-in-out hover:scale-105' />
                         </a>
-                        <a href="https://t.me/ethdreamgirl">
+                        <a href="https://t.me/ShiShionEth">
                             <img src="/images/telegram.png" alt="" className='md:w-[18vw] w-[95vw]  transition-all ease-in-out hover:scale-105' />
                         </a>
                     </div>
